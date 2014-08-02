@@ -19,4 +19,6 @@
 
 __TODO:__
 
-More :lipstick:
+* More :lipstick:
+
+* Better script loading strategy? [ lazy me :/ ]
